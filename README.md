@@ -10,3 +10,7 @@ In the end, after cleaning the data, I ended up with two data sets : one with th
 
 I have pushed those two data sets as tables in SQL and have retrieved some data from in a second Jupyter notebook, to make my hypothesis testing.
 In this hypothesis testing notebook, I check if the average CO2 emissions of our car park are lower than the average of all registrations for the given brands.
+
+I have also used both data sets in Tableau to create visualizations.
+Link to the CarPark visualization : https://public.tableau.com/app/profile/ebou6751/viz/Week_5_visu_carpark/Dashboard1#1
+Link to the AllRegistrations visualization : https://public.tableau.com/app/profile/ebou6751/viz/Week5_visu_allregistrations/Av_CO22#1
